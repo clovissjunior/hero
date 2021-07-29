@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/10 04:16:09.000.394,=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/11 20:18:04.000.497,=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/13 16:33:25.000.449,=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/14 00:03:04.000.544,=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/14 00:04:11.000.180,C:\Users\Clovis\Desktop\pd\Implementacoes\Analisador\UPrincipal.dfm=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/07/14 00:04:11.000.180,C:\Users\Clovis\Desktop\pd\Implementacoes\Analisador\UPrincipal.pas=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/14 00:04:42.000.852,C:\Users\Clovis\Desktop\pd\Implementacoes\Analisador\Analisador.dproj=C:\Users\Clovis\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
